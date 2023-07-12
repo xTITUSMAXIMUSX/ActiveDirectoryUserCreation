@@ -140,9 +140,6 @@ namespace ActiveDirectoryUserCreationApp
         }
 
 
-
-
-
         private void btnCreateUser_Click(object sender, EventArgs e)
         {
             string username = txtUsername.Text;
