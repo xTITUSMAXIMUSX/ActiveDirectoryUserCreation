@@ -1,0 +1,72 @@
+{
+    "configurations": [
+        {
+            "Name": "Configuration 1",
+            "Container": "OU=Users,DC=example,DC=com",
+            "UserEnabled": true,
+            "UserCannotChangePassword": true,
+            "UserMustChangePassword": true,
+            "Properties": {
+                "l": "Value1",
+                "Company": "Value2",
+                "co": "US",
+                "Department": "IT",
+                "Description": "Configuration 1 description",
+                "Mail": "example@example.com",
+                "physicaldeliveryofficename": "Office1",
+                "telephoneNumber": "855-855-8555",
+                "wWWHomePage": "www.user1.com",
+                "streetAddress": "123 EZ St.",
+                "postOfficeBox": null,
+                "St": "MO",
+                "postalCode": 12345,
+                "profilePath": null,
+                "scriptPath": null,
+                "homeDirectory": null,
+                "homeDrive": null,
+                "title": null,
+                "manager": null,
+                "homePhone": null,
+                "pager": null,
+                "Mobile": null,
+                "facsimileTelephoneNumber": null,
+                "ipPhone": null,
+                "userPrincipalName": null
+            }
+        },
+        {
+            "Name": "Configuration 2",
+            "Container": "OU=Users,DC=example,DC=com",
+            "UserEnabled": true,
+            "UserCannotChangePassword": true,
+            "UserMustChangePassword": true,
+            "Properties": {
+                "l": "Value3",
+                "Company": "Value4",
+                "co": "US",
+                "Department": "IT",
+                "Description": "Configuration 2 description",
+                "Mail": "example2@example.com",
+                "physicaldeliveryofficename": "Office2",
+                "telephoneNumber": "855-855-8555",
+                "wWWHomePage": "www.user2.com",
+                "streetAddress": "123 EZ St.",
+                "postOfficeBox": null,
+                "St": "MO",
+                "postalCode": 12345,
+                "profilePath": null,
+                "scriptPath": null,
+                "homeDirectory": null,
+                "homeDrive": null,
+                "title": null,
+                "manager": null,
+                "homePhone": null,
+                "pager": null,
+                "Mobile": null,
+                "facsimileTelephoneNumber": null,
+                "ipPhone": null,
+                "userPrincipalName": null
+            }
+        }
+    ]
+}
