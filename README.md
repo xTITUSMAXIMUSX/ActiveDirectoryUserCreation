@@ -13,3 +13,9 @@ Once your config is saved you can make edits to your configs if anything changes
 Now that you have all your configurations set for all your future users to be created you can create the user with specifying the `User Name`, `Password` `First Name`, `Last Name`, then selecting the config you entered earlier.
 
 ![image](https://github.com/xTITUSMAXIMUSX/ActiveDirectoryUserCreation/assets/62310795/cb38802d-a4f1-420c-9104-4807b0d49e0a)
+
+## Usage
+Make sure to run the app as administrator and also with a user with the proper permissions to create users in AD.
+
+## Other notes
+I am open to making this app better. I know its not the greatest thing to look at and if there is more functionallity added then submit a PR.
